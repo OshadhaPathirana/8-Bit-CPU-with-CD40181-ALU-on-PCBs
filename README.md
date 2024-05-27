@@ -53,11 +53,7 @@ Welcome to the 8-bit CPU project repository! This project was developed to gain 
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure that your contributions align with the project goals and maintain the educational focus of the project.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
 
 ## Acknowledgements
 
@@ -65,12 +61,4 @@ This project was made possible by the support and resources provided by UpThrust
 
 ## Contact
 
-For any questions or further information, please contact Rusula Oshadha at [your-email@example.com].
-
----
-
-Thank you for your interest in the 8-bit CPU project! We hope this repository serves as a valuable resource for learning about CPU microarchitecture and instruction execution.
-
----
-
-Feel free to customize the above README file to better suit your specific needs and preferences!
+For any questions or further information, please contact Rusula Oshadha at [oshadha1619@gmail.com].
