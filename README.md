@@ -61,4 +61,4 @@ This project was made possible by the support and resources provided by UpThrust
 
 ## Contact
 
-For any questions or further information, please contact Rusula Oshadha at [oshadha1619@gmail.com].
+For any questions or further information, please contact Rusula Oshadha at [].
